@@ -1,0 +1,40 @@
+*{
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+.INFO1>h1{
+    padding-top: 2%;
+}
+.INFO1>h3{
+    padding: 20px;
+    
+}
+.INFO1>img{
+    display: block;
+    width: 200px;
+    align-content: center;
+    padding-top: 5%;
+    
+}
+    
+
+
+
+   
+
+.INFO2{
+    padding-top: 7%;
+
+}
+
+.INFO3{
+    padding-top:3%;
+    
+}
+.INFO3>table>tr{
+    
+    display: block;
+}
+    
